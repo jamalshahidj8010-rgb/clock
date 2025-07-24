@@ -1,1 +1,8 @@
 Digital Clock Project Requirements
+
+1. Project Overview
+Decide on form factor: physical clock versus software/app
+
+Define working title or model name
+
+Identify primary user needs or pain points (readability, integration, world-time)
