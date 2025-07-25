@@ -11,3 +11,10 @@ Identify primary user needs or pain points (readability, integration, world-time
 List top three goals (e.g., unit sales target, app downloads, platform integrations)
 
 Determine success metrics (sales numbers, active users, session time, CSAT)
+
+3. Scope and Deliverables
+Specify core features for MVP (12h/24h display, alarms, snooze, timers, weather/calendar modules)
+
+Clarify what’s out of scope at launch
+
+Outline deliverables: hardware prototype, firmware, mobile/​web app, user manual, packaging
