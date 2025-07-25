@@ -31,3 +31,13 @@ What is your ideal launch date or deadline?
 Are there critical interim milestones (design reviews, testing phases, pilot launch)?
 
 How flexible is the schedule?
+6. Budget & Resources
+What budget range have you allocated?
+
+Are there existing teams, tools, or licenses we must leverage?
+
+Do we need to hire or contract additional expertise?
+7. Constraints & Risks
+Any technical, legal, or compliance constraints to be aware of?
+
+Known risks or dependencies (third-party integrations, data availability, stakeholder availability)?
