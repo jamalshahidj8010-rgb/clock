@@ -25,3 +25,9 @@ Identify project sponsor(s) and budget owner(s)
 List internal teams and external vendors (design, engineering, manufacturing, QA)
 
 Define who provides content, approvals, and technical reviews
+5. Timeline & Milestones
+What is your ideal launch date or deadline?
+
+Are there critical interim milestones (design reviews, testing phases, pilot launch)?
+
+How flexible is the schedule?
