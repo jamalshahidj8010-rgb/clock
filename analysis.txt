@@ -6,3 +6,8 @@ Decide on form factor: physical clock versus software/app
 Define working title or model name
 
 Identify primary user needs or pain points (readability, integration, world-time)
+
+2. Business Objectives
+List top three goals (e.g., unit sales target, app downloads, platform integrations)
+
+Determine success metrics (sales numbers, active users, session time, CSAT)
