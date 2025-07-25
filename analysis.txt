@@ -18,3 +18,10 @@ Specify core features for MVP (12h/24h display, alarms, snooze, timers, weather/
 Clarify what’s out of scope at launch
 
 Outline deliverables: hardware prototype, firmware, mobile/​web app, user manual, packaging
+
+4. Stakeholders & Roles
+Identify project sponsor(s) and budget owner(s)
+
+List internal teams and external vendors (design, engineering, manufacturing, QA)
+
+Define who provides content, approvals, and technical reviews
